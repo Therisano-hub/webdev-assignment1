@@ -39,6 +39,7 @@ Webdev
 | |_ _DAKALO003.jpg
 ||_ _DAKALO004.jpg
 ||_ _DAKALO005.jpg
+//- -pasteries 2.jpeg
 |__README.md
 
 
@@ -53,6 +54,10 @@ Webdev
 - contact and about us was also added 
 15/04/2026
 - installed home, enquiries and contact
+
+- 29/05/2026
+  1:48 PM
+added styling by creating an external file called (styles.css), keeping the HTML cleaner and easier to maintain. Added responsive media queries targeting tablet (≤768px) and mobile (≤480px) screens. Changes include a collapsing nav, scaled-down hero text, reduced section padding, a single-column product grid, and full-width form inputs and buttons on smaller devices.
 
 ## Reference
 Turkish kebabs, 2025.Chocolate Strawberry Cake is the easiest layered chocolate cake we’ve ever made. A very simple chocolate ganache and fresh strawberries are used for the mid layer and the topping. The best combination of chocolate and strawberries ever! .[image online]available at :< Chocolate Strawberry Cake - Give Recipe > [Accessed 19 April 2026]
